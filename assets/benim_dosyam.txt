@@ -1,0 +1,1 @@
+Merhaba ben Mehmet YETKİN bu dosyayı Havelsan şirketinden aldığım eğitim üzerine proje ödevi olarak aldığım sezar şifreleme algoritmasının kırılması konusu üzerine yaptığım çalışma için assets klasörü altında oluşturuyorum.
